@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Deve renderizar corretamente 1`] = `
+<body>
+  <div>
+    <header
+      class="cabecalho"
+    >
+      <h1
+        class="cabecalho__titulo"
+      >
+        Receitas legais para fazer em casa
+      </h1>
+    </header>
+  </div>
+</body>
+`;

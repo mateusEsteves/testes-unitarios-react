@@ -1,0 +1,22 @@
+.lista {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  grid-area: main;
+  margin-top: 72px;
+}
+
+.semItens {
+  width: 100%;
+  height: calc(100vh - 72px);
+  padding-top: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.semItens__texto {
+  display: block;
+  font-size: 1.5rem;
+}

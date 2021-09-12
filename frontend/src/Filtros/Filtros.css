@@ -1,0 +1,28 @@
+.filtros {
+  margin-top: 72px;
+  width: 350px;
+  height: calc(100vh - 72px);
+  display: inline-block;
+  grid-area: aside;
+  position: fixed;
+}
+
+.filtros .filtros__inputs {
+  display: block;
+  width: 95%;
+  margin: 16px auto;
+  padding: 12px 24px;
+  border-radius: 8px;
+  border: solid 1px #6c3f99;
+}
+
+.filtros .filtros__inputs::placeholder {
+  color: black;
+}
+
+.filtros .filtros__aplicarFiltros {
+  border: none;
+  color: white;
+  background-color: #6c3f99;
+  cursor: pointer;
+}

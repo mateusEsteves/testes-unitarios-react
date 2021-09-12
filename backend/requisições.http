@@ -1,0 +1,5 @@
+GET http://localhost:3001/receitas
+
+###
+
+GET http://localhost:3001/receitas/0

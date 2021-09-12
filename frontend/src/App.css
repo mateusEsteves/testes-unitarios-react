@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: cursive;
+}
+
+.app {
+  position: relative;
+  display: grid;
+  grid-template-columns: 0.5fr 2fr;
+  grid-template-areas:
+    'header header'
+    'aside main';
+}

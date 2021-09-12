@@ -1,0 +1,128 @@
+[
+  {
+    "id": 0,
+    "nome": "Acarajé",
+    "pais": "Brasil",
+    "descricao": "O Acarajé é um bolinho de feijão fradinho, frito em azeite de dendê e recheada com vatapá, camarão seco e vinagrete, além de pimenta. Essa última você deve ter muito cuidado, porque na Bahia um prato apimentado é realmente muito apimentado."
+  },
+  {
+    "id": 1,
+    "nome": "Arroz com Pequi",
+    "pais": "Brasil",
+    "descricao": "O Pequi é um fruto nativo do cerrado de gosto marcante e peculiar. É considerada a jóia da culinária do centro-oeste, sendo ele matéria prima para muitas receitas tradicionais da região. O prato consiste basicamente em um arroz normal, porém cozido junto com o pequi. Isso concede ao arroz a cor amarela, além do sabor e cheiro bem característicos."
+  },
+  {
+    "id": 2,
+    "nome": "Carne de Sol",
+    "pais": "Brasil",
+    "descricao": "A carne de sol nada mais é do que uma peça de colchão mole ou duro salgado, preparado segunda a tradição nordestina. Tem esse nome porque antigamente era levada ao sol para secar, no momento em que fosse salgada e se iniciasse o processo de cura."
+  },
+  {
+    "id": 3,
+    "nome": "Feijoada",
+    "pais": "Brasil",
+    "descricao": "A feijoada consiste em uma mistura do feijão preto cozido, com partes menos nobres do porco, como orelha, rabo, além de linguiça e carne seca. Normalmente vem acompanhada de couve e de arroz."
+  },
+  {
+    "id": 4,
+    "nome": "Moqueca",
+    "pais": "Brasil",
+    "descricao": "A Moqueca Capixaba consiste em peixe cozido, com vegetais e frutos do mar. Ela pode ser feita com vários tipos de peixe, tais como Badejo, cação ou dourado, mas o que não pode mudar no preparo é o uso da panela de barro, que traz com ela toda a tradição."
+  },
+  {
+    "id": 5,
+    "nome": "Pão de Queijo",
+    "pais": "Brasil",
+    "descricao": "O Pão de queijo é um dos maiores símbolos da culinária mineira e olha que não faltam candidatos a esse posto, tamanha é a riqueza da gastronomia em Minas Gerais. Porém, o pão de queijo ganha pela versatilidade, sendo uma comida para qualquer momento, principalmente com um cafézinho."
+  },
+  {
+    "id": 6,
+    "nome": "Tapioca",
+    "pais": "Brasil",
+    "descricao": "A tapioca tem origem indígena, porém com o tempo foi se espalhando pela região a ponto de ser reconhecida como um prato da comida típica brasileira no nordeste. A sua origem vem da fécula de mandioca granulada, que ao ser esquentada forma uma massa unida."
+  },
+  {
+    "id": 7,
+    "nome": "Tarte Tatin",
+    "pais": "França",
+    "descricao": "Trata-se de uma torta de maçã preparada ao contrário. Ou seja, coloca-se na forma as frutas e por cima a massa. Assim, quando desenformar o doce, as maçãs ficam no topo e bem caramelizadas."
+  },
+  {
+    "id": 8,
+    "nome": "Croque-Monsieur",
+    "pais": "França",
+    "descricao": "Em teoria, o croque-monsieur nada mais é do que um misto quente mais elaborado. O pão é molhado no ovo, coberto com queijo e recheado com presunto e queijo. Depois é só tostar na frigideira. Você vai encontrar este lanche em qualquer cafézinho francês"
+  },
+  {
+    "id": 9,
+    "nome": "Croque-Madame",
+    "pais": "França",
+    "descricao": "O Croque Madame é uma versão mais elaborada do Croque-Monsieur. Ele pode ser recheado com saladinhas e ainda ser coberto com um ovo frito bem cremoso."
+  },
+  {
+    "id": 10,
+    "nome": "Crepe",
+    "pais": "França",
+    "descricao": "Essas panquecas de massa fina são típicas da região noroeste do país chamada de Bretagne. Porém você vai encontrar essa delícia em qualquer lugar. A crepe é conhecida pelas opções de recheios doces."
+  },
+  {
+    "id": 11,
+    "nome": "Crème Brûlée",
+    "pais": "França",
+    "descricao": "É uma receita preparada com creme de leite, açúcar, ovos e baunilha e finalizada com uma crosta de açúcar queimada. Se você assistiu o filme O Fabuloso Destino de Amélie Poulain então se lembra que um dos grandes prazeres dela era quebrar a casquinha de açúcar com a colher."
+  },
+  {
+    "id": 12,
+    "nome": "Boeuf Bourguignon",
+    "pais": "França",
+    "descricao": "Um prato típico que ficou famoso com o filme Julie & Julia, dirigido por Nora Ephron. Trata-se de carne de vaca cozida à exaustão no vinho tinto com legumes. Os franceses comem a carne acompanhada de purê ou pão."
+  },
+  {
+    "id": 13,
+    "nome": "Clafoutis",
+    "pais": "França",
+    "descricao": "É uma torta de cereja preparada com uma massa leve com leite, açúcar e um creme de farinha. O diferencial é que as cerejas são colocadas inteiras na receita."
+  },
+  {
+    "id": 14,
+    "nome": "Sushi",
+    "pais": "Japão",
+    "descricao": "Esta típica comida japonesa é um bolinho de arroz enrolado com uma alga. O sushi traz diferentes ingredientes em seu interior, entre eles frutos do mar, peixe e vegetais. Como a variedade de sushi é bem grande, a iguaria pode ganhar outros nomes dependendo do recheio escolhido."
+  },
+  {
+    "id": 15,
+    "nome": "Sashimi",
+    "pais": "Japão",
+    "descricao": "O prato traz tiras finas de peixe cru, geralmente salmão e atum, mas também podem ser carnes de boi ou frango. Não é consumido com arroz, mas pode ser acompanhado de alga, molho shoyu e wasabi."
+  },
+  {
+    "id": 16,
+    "nome": "Tempurá",
+    "pais": "Japão",
+    "descricao": "De origem portuguesa, o tempurá se tornou um dos pratos clássicos da comida japonesa. A iguaria de massa fluida, feita à base de farinha de trigo e frita, pode ser composta apenas de legumes (cenoura, abóbora, berinjela, repolho, brócolis, entre outros) ou por frutos do mar, como camarão. Independentemente do recheio, o tempurá vem acompanhado de molho."
+  },
+  {
+    "id": 17,
+    "nome": "Temaki",
+    "pais": "Japão",
+    "descricao": "Este cone feito de algas secas e crocantes caiu definitivamente no gosto dos brasileiros. Ele pode trazer os mais diferentes recheios, porém os mais comuns são atum, pepino, kani e salmão cru ou grelhado, todos com arroz. Para acompanhar, molho shoyu."
+  },
+  {
+    "id": 18,
+    "nome": "Missoshiru",
+    "pais": "Japão",
+    "descricao": "Servida quente, antes do prato principal ou no café da manhã, a missoshiru é uma sopa feita à base de pasta de soja e dashi (caldo de peixe) e tofu. Algumas vezes pode conter legumes."
+  },
+  {
+    "id": 19,
+    "nome": "Huramaki",
+    "pais": "Japão",
+    "descricao": "Também chamado de rolinho primavera, o harumaki é uma massa crocante bem fininha, enrolada e frita, que pode receber recheios variados. Entre os sabores salgados estão queijo e legumes e algumas opções doces são chocolate e goiabada."
+  },
+  {
+    "id": 20,
+    "nome": "Sunomono",
+    "pais": "Japão",
+    "descricao": "Este aperitivo é feito com pepino japonês cortado em tiras bem fininhas e temperado com sementes de gergelim preto ou branco, acompanhado de um molho à base de vinagre de arroz."
+  }
+]

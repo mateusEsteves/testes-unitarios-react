@@ -1,0 +1,44 @@
+.detalhesReceita {
+  width: 100%;
+  height: 100vh;
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 2;
+  display: flex;
+}
+
+.detalhesReceita .detalhesReceita__container {
+  width: 40%;
+  height: 40%;
+  margin: auto;
+  background-color: white;
+  border-radius: 8px;
+  padding: 1% 5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.detalhesReceita .detalhesReceita__titulo {
+  font-weight: bold;
+  font-size: 1.7rem;
+  color: #6c3f99;
+  margin-bottom: 8px;
+}
+
+.detalhesReceita .detalhesReceita__pais {
+  font-size: 1rem;
+  font-style: italic;
+  display: block;
+  text-align: center;
+}
+
+.detalhesReceita .detalhesReceita__fechar {
+  border: none;
+  color: white;
+  background-color: #6c3f99;
+  cursor: pointer;
+  padding: 8px 32px;
+  border-radius: 8px;
+}
